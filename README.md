@@ -25,8 +25,8 @@ Buffer Overflow (BoF) is a common vulnerability found in software, allowing an a
 To get started with the examples and code provided in this repository, ensure you have a basic understanding of programming languages (e.g., C/C++) and fundamental cybersecurity concepts.
 
 ### Prerequisites
-- Basic knowledge of C/C++
-- Familiarity with Linux/Unix environments
+- python data anylsis
+- Familiarity with numpy and pandas beutiful soup environments
 
 ## Usage
 Explore the provided code examples and walkthroughs to understand how buffer overflows work and how to exploit or defend against them.
