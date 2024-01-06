@@ -1,5 +1,6 @@
 # Innomatics-Hackathon
-![Uploading image.png…]()
+![image](https://github.com/ashfaq-khan14/Innomatics-Hackathon/assets/120010803/ba3485c8-196c-42ce-9d1d-bbf75320e6c6)
+
 Certainly! When writing a README file for a Buffer Overflow (BoF) project on GitHub, you'll want to provide essential information about the project, how to use it, and possibly its purpose or any dependencies required. Below is an example of how you might structure a README for a BoF project:
 
 ---
